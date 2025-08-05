@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Pokemon Discovery',
     description: 'Discover Pokemon and build your personal collection',
-    url: 'https://pokemon-discovery.vercel.app',
+    url: 'https://pokemon-discovery.vercel.app/',
     siteName: 'Pokemon Discovery',
     images: [
       {
